@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Paper Breakdowns"
+    url: /paper-breakdowns/
     
   - title: "CV"
     url: /files/cv_current.pdf
