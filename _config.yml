@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yo Akiyama"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yo Akiyama"
 description              : &description "MIT EECS PhD Student"
