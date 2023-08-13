@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an incoming MIT EECS PhD student. I have broad
-interests in developing and applying computational methods to study
+I am currently an incoming MIT EECS PhD student. I am broadly
+interested in developing and applying computational methods to study
 protein function and regulation and their aberrations contribute to
 disease development and progression.
 
