@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently an incoming MIT EECS PhD student. I am broadly
 interested in developing and applying computational methods to study
-protein function and regulation and their aberrations contribute to
+protein function and regulation and how their aberrations contribute to
 disease development and progression.
 
 Before starting my PhD, I was a Computational Associate in the [Getz
