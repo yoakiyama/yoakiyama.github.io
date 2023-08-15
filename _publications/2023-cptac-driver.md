@@ -1,5 +1,5 @@
 ---
-title: "Pan-cancer analysis of post-translational modifications reveals shared patterns of protein regulation"
+title: "Pan-cancer proteogenomics connects oncogenic drivers to functional states"
 collection: publications
 permalink: /publication/2023-cptac-driver
 excerpt: ''
