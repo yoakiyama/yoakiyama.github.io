@@ -28,10 +28,12 @@ What you'll find here
 ======
 Motivated by the rapid acceleration in science and technology, I'm
 passionate about making cutting-edge advancements in AI/ML for biology
-accessible to everyone. Here, you'll find [Paper Breakdowns](https://yoakiyama.github.io/paper-breakdowns/):
+accessible to everyone. Here, you'll find 
+* [Paper Breakdowns](https://yoakiyama.github.io/paper-breakdowns/):
   Dive into my co-authored research papers through summaries and
-  explanations. [Non-technical
-  Overviews](https://yoakiyama.github.io/non-technical-overviews):
+  explanations. 
+* Non-technical
+  Overviews:
   Explore exciting topics in a readily understandable format.
   
 My goal is to empower a wider audience to explore complex scientific
