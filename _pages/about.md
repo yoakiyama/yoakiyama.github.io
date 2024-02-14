@@ -10,8 +10,7 @@ redirect_from:
 
 I am a first year Ph.D. student in the Electrical Engineering and
 Computer Science department at MIT advised by [Sergey
-Ovchinnikov](https://www.solab.org/ "Solab Website"). My reserach
-focuses on building interpretable machine learning models to study
+Ovchinnikov](https://www.solab.org/ "Solab Website"). My research focuses on building interpretable machine learning models to study
 protein folding, function, regulation, and design.
 
 Prior to starting my PhD, I was a Computational Associate in the [Getz
@@ -32,7 +31,7 @@ accessible to everyone. Here, you'll find
 * [Paper Breakdowns](https://yoakiyama.github.io/paper-breakdowns/):
   Dive into my co-authored research papers through summaries and
   explanations. 
-* Non-technical
+* Minimally Technical
   Overviews:
   Explore exciting topics in a readily understandable format.
   
