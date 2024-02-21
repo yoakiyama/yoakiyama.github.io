@@ -15,7 +15,7 @@ protein folding, function, regulation, and design.
 
 Prior to starting my PhD, I was a Computational Associate in the [Getz
 lab](https://getzlab.org/ "Getz Lab Website") at the Broad Institute of MIT and Harvard from
-2020-2023. My research focused on the genetic control of protein
+2020-2023. There, I studied the genetic control of protein
 regulation and the dysregulation of  DNA repair in
 cancer. Before joining the Getz lab, I graduated from Williams
 College, where I worked with Professor Tom Murtagh to design and
