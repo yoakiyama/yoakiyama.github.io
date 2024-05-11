@@ -35,6 +35,5 @@ accessible to everyone. Here, you'll find
   Overviews:
   Explore exciting topics in a readily understandable format.
   
-My goal is to empower a wider audience to explore complex scientific
-challenges and brainstorm solutions. Feel free to share your feedback
+Feel free to share your feedback
 or questions via email [here](mailto:yo_aki@mit.edu).
